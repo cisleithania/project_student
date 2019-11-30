@@ -1,0 +1,11 @@
+edu\javacourse\student\domain\StudentForm.class
+edu\javacourse\student\rest\StudentController.class
+edu\javacourse\student\dao\StudentRepository.class
+edu\javacourse\student\domain\StudentDocument.class
+edu\javacourse\student\domain\Student.class
+edu\javacourse\student\service\StudentService.class
+edu\javacourse\student\domain\Faculty.class
+edu\javacourse\student\view\StudentResponse.class
+edu\javacourse\student\view\LocalDateAdapter.class
+edu\javacourse\student\domain\University.class
+edu\javacourse\student\view\StudentRequest.class
